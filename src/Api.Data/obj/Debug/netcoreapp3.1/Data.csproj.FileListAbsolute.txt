@@ -8,3 +8,6 @@ C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\D
 C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
 C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
 C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
