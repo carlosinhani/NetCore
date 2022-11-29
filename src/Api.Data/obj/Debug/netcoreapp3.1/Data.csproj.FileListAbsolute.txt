@@ -11,3 +11,6 @@ C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\D
 C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
 C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
 C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\digao\Projetos\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
